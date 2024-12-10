@@ -11,3 +11,12 @@ rostopic list
 rostopic info <topic name>
 rosmsg info <msg name>
 ```
+
+Open a new folder and create a py file 
+```
+mkdir TurtleSim
+cd TrurtleSim
+touch avoidWall.py
+chmod +x avoidWall.py
+```
+
